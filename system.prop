@@ -12,3 +12,9 @@ DEVICE_PROVISIONED=1
 persist.sys.fflag.override.settings_network_and_internet_v2=true
 ril.subscription.types=NV,RUIM
 telephony.lteOnCdmaDevice=1
+
+# Spark
+ro.spark.device.name=Redmi Note 7/S
+ro.spark.group.url=https://t.me/infernobuilds
+ro.spark.maintainer=Aaradhay Vijay
+ro.spark.maintainer.username=inferno964
