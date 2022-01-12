@@ -15,6 +15,6 @@ telephony.lteOnCdmaDevice=1
 
 # Spark
 ro.spark.device.name=Redmi Note 7/S
-ro.spark.group.url=https://t.me/infernobuilds
-ro.spark.maintainer=Aaradhay Vijay
-ro.spark.maintainer.username=inferno964
+ro.spark.group.url=https://t.me/SparkOSCommunity
+ro.spark.maintainer=Jenkins
+ro.spark.maintainer.username=SparkOSCommunity
